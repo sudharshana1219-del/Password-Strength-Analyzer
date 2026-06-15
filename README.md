@@ -1,10 +1,10 @@
 # Password-Strength-Analyzer
-Password Strength Analyzer project developed using Python to evaluate password security based on length, complexity, and strength rules.
-Problem Statement
+Password Strength Analyzerproject developed using Python to evaluate password security based on length, complexity, and strength rules.
+## Problem statement
 Users often create weak passwords that are easy to guess. This project helps evaluate password strength and improve password security.
-Dataset Source
+## Dataset Source
 Dataset downloaded from Kaggle: Password Strength Dataset
-Approach
+## Approach
 1.Data Collection
 2.Data Cleaning
 3.Feature Engineering
